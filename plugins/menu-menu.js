@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isP
 try {
 let vn = './media/menu.mp3'
 let pp = imagen4
-let img = await(await fetch('https://www.paidmembershipspro.com/wp-content/uploads/2017/07/PayPal-Express.png')).buffer()
+let img = await(await fetch('https://telegra.ph/file/c3edcee008f62b91eb77b.jpg')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -32,7 +32,7 @@ let str = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *المطور:* 𝘋𝘙𝘈𝘒𝘌𝘕
 ║➤ *رقم المطور:* wa.me/201098906252
-║➤ *الانستا:* https://www.instagram.com/virus_forever_101
+║➤ *الانستا:* https://www.instagram.com/drak.en93/
 ║➤ *مطور البوت2:* wa.me/01275658375
 ║➤ *Pay* ${date}
 ║➤ *وقت النشاط:* ${uptime}
